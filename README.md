@@ -1,0 +1,1 @@
+# blog-mocking-window-object-with-jest
